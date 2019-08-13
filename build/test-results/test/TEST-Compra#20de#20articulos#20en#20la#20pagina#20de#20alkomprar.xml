@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Compra de articulos en la pagina de alkomprar" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-13T20:39:36" hostname="CPX-ZAU4ZF9ODNY" time="47.446">
+  <properties/>
+  <testcase name="Ingreso a la pagina de alkomprar y agregar un producto al carrito de compras" classname="Compra de articulos en la pagina de alkomprar" time="47.446"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Aug 13, 2019 3:39:36 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 44728
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Aug 13, 2019 3:39:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Ingreso a la pagina de alkomprar y agregar un producto al carrito de compras
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
